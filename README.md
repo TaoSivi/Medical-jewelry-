@@ -1,4 +1,4 @@
-# ST Jewelry
+# Medical Jewelry (ST Jewelry)
 
 ແອັບ POS ສຳລັບຮ້ານເຄື່ອງປະດັບ (jewelry) — ສ້າງຈາກໂຄດ ST POS ຂອງ TaoSivi, ຕັດເປັນແອັບແຍກສະເພາະ jewelry.
 
